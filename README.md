@@ -1,11 +1,12 @@
 # Data Science Labs
 
-A consolidated collection of machine learning models, classification algorithms, and AI academy lab projects.
+A consolidated collection of machine learning models, data science applications, mathematical optimization algorithms, graph theory studies, and AI lab projects.
 
 ---
 
-## Repository Structure
+## Directory Overview
 
-- **MLProject**: Machine learning models and exploration scripts.
-- **ClassificationProject**: Classification algorithm implementations and dataset evaluations.
-- **YZ_Akademi**: Artificial Intelligence Academy coursework and hands-on lab projects.
+- **Machine Learning & Customer Analytics**: `MLProject`, `ClassificationProject`, `ECommerce-Customer-Segmentation`, `Data-Science-Applications`
+- **Mathematical Optimization & Algorithms**: `Gradient-Descent-and-Newton-Optimization`, `Simplex-and-KKT-Optimization`, `Stochastic-vs-Batch-Gradient-Descent`
+- **Graph Theory & Network Analysis**: `Graph-Theory-Algorithms`, `Email-Network-Graph-Analysis`
+- **AI Academy Projects**: `YZ_Akademi`
