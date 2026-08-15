@@ -1,9 +1,9 @@
-# Graph Theory Algorithms
+# Beşiktaş District Shortest Path & Transportation Network Analysis
 
-Fundamental algorithms and mathematical representations of graph structures implemented in Jupyter Notebook format.
+A spatial network analysis project applying Graph Theory and Dijkstra's Shortest Path Algorithm to real-world GIS geographical data from OpenStreetMap.
 
-## Coverage
+## Key Features
 
-- Adjacency matrix and adjacency list constructions.
-- Graph traversal and shortest path computation.
-- Vertex degree distributions and connectivity analysis.
+- **Geographical Network Modeling**: Extracts road network topology for the Beşiktaş district using OpenStreetMap (`osmnx`).
+- **Dijkstra's Shortest Path**: Implements Dijkstra's algorithm to calculate optimal routes between geographic coordinates based on road weights and distances.
+- **Spatial Visualization**: Visualizes graph nodes, edges, and computed optimal paths over GIS map overlays.

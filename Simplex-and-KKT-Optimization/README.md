@@ -1,8 +1,9 @@
-# Simplex Method & KKT Optimality Conditions
+# Dairy Factory Production Optimization: Linear & Non-Linear Analysis
 
-Advanced mathematical programming project covering linear and non-linear constrained optimization techniques.
+A mathematical programming study optimizing production planning for a dairy processing facility under strict raw material constraints (milk, fruit, sugar).
 
-## Methods Implemented
+## Methodology & Models
 
-- **Simplex Method**: Algorithmic solution for linear programming problems with boundary constraints.
-- **Karush-Kuhn-Tucker (KKT) Conditions**: Theoretical formulation and numerical verification of first-order necessary conditions for non-linear constrained optimization.
+- **Linear Programming (Simplex Method)**: Formulates linear objective functions for profit maximization constrained by raw material availability.
+- **Non-Linear Optimization (KKT Conditions)**: Solves non-linear production cost and yield models using Karush-Kuhn-Tucker (KKT) first-order optimality conditions.
+- **Comparative Evaluation**: Compares optimal allocation results, shadow prices, and resource utilization efficiency across linear and non-linear mathematical models.

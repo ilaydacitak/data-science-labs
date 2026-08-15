@@ -6,4 +6,4 @@ An empirical network science project analyzing the internal email communication 
 
 - **Network Metrics**: Computes node degree distribution, graph density, average path length, and clustering coefficients.
 - **Community Detection**: Implements the Girvan-Newman algorithm to discover institutional department clusters.
-- **Graph Visualization**: Generates network structures exportable to GEXF format (`Email_Network_Final.gexf`) for visualization.
+- **Graph Visualization**: Generates network structures exportable to GEXF format (`Email_Network_Final.gexf`) for network visualization.
